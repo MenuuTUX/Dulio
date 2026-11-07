@@ -37,7 +37,7 @@ To clone and run this application, you'll need [Git](https://git-scm.com) and [F
 
 ```bash
 # Clone this repository
-$ git clone https://github.com/MilkFlavor/dulio.git
+$ git clone https://github.com/MenuuTUX/dulio.git
 
 # Go into the repository
 $ cd Dulio
@@ -65,6 +65,5 @@ MIT
 
 ---
 
-> shibashish785@gmail.com
-> GitHub [@MilkFlavor](https://github.com/MilkFlavor) &nbsp;&middot;&nbsp;
+> GitHub [@MenuuTUX](https://github.com/MenuuTUX) &nbsp;&middot;&nbsp;
 
